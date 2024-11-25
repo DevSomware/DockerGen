@@ -33,7 +33,7 @@ fetchuserdata();
           
         </div>
         <div className="mt-12 text-center text-gray-600 dark:text-gray-400">
-  <p>&copy; 2024 DockerGen by DeployLite. All rights reserved. Made with ❤️ by Basir Khan.</p>
+  <p>&copy; 2024 DockerGen by DevSomeware. All rights reserved. Made with ❤️ by DevSomeware Team.</p>
 </div>
 
       </footer>

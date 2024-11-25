@@ -27,7 +27,7 @@ export default function Component() {
         <Link href={"/"}> <div className="flex items-center">
               <FileCode2 className="h-8 w-8 text-primary mr-2" />
               <span className="font-bold text-xl flex flex-col">DockerGen<span className='text-xs'>
-              by DeployLite
+              by DevSomeware
                 </span></span>
             </div></Link>
             <div className="flex items-center space-x-4">
@@ -216,7 +216,7 @@ export default function Component() {
           
         </div>
         <div className="mt-12 text-center text-gray-600 dark:text-gray-400">
-  <p>&copy; 2024 DockerGen by DeployLite. All rights reserved. Made with ❤️ by Basir Khan.</p>
+        <p>&copy; 2024 DockerGen by DevSomeware. All rights reserved. Made with ❤️ by DevSomeware Team.</p>
 </div>
 
       </footer>

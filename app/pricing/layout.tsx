@@ -10,11 +10,11 @@ import type { Metadata } from "next";
           title: "DockerGen Pricing | Free for Everyone",
           description:
             "DockerGen provides free Dockerfile generation and containerization tools. No hidden fees, just efficient Docker automation. Available to everyone, for free.",
-          url: "https://dockergen.deploylite.tech/pricing",
+          url: "https://dockergen.devsomeware.com/pricing",
           siteName: "DockerGen",
           images: [
             {
-              url: "https://dockergen.deploylite.tech/dockergen.png",
+              url: "https://dockergen.devsomeware.com/dockergen.png",
               width: 1200,
               height: 630,
               alt: "DockerGen - Free Dockerfile Generation",
@@ -28,7 +28,7 @@ import type { Metadata } from "next";
           title: "DockerGen Pricing | Free for Everyone",
           description:
             "Use DockerGen's Dockerfile automation tools for free. No hidden fees, just powerful containerization efficiency available for all.",
-          images: "https://dockergen.deploylite.tech/dockergen.png",
+          images: "https://dockergen.devsomeware.com/dockergen.png",
           creator: "@Basirkhan_786",
         },
         robots: "index, follow",

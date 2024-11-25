@@ -162,7 +162,7 @@ if(data.status==201){
           <Link href={"/"}> <div className="flex items-center">
               <FileCode2 className="h-8 w-8 text-primary mr-2" />
               <span className="font-bold text-xl flex flex-col">DockerGen<span className='text-xs'>
-              by DeployLite
+              by DevSomeware
                 </span></span>
             </div></Link>
             <div className="hidden md:flex items-center space-x-4">

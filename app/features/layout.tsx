@@ -12,11 +12,11 @@ export const metadata = {
       title: "DockerGen Features | Automate Dockerfile Creation with Best Practices",
       description:
         "Explore how DockerGen automates Dockerfile creation with best practices like using lightweight images, minimizing layers, and optimizing caching. Save time and improve efficiency.",
-      url: "https://dockergen.deploylite.tech/features",
+      url: "https://dockergen.devsomeware.com/features",
       siteName: "DockerGen",
       images: [
         {
-          url: "https://dockergen.deploylite.tech/dockergen.png",
+          url: "https://dockergen.devsomeware.com/dockergen.png",
           width: 1200,
           height: 630,
           alt: "DockerGen - Automate Dockerfile Creation",
@@ -30,7 +30,7 @@ export const metadata = {
       title: "DockerGen Features | Automate Dockerfile Creation",
       description:
         "Learn about DockerGen's powerful features for Dockerfile generation, including best practices, optimized caching, and one-click GitHub commits. Improve your containerization workflow.",
-      images: "https://dockergen.deploylite.tech/dockergen.png",
+      images: "https://dockergen.devsomeware.com/dockergen.png",
       creator: "@Basirkhan_786",
     },
     robots: "index, follow",
